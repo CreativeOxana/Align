@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  background: rgb(3, 125, 1);
+  width: 800px;
+  height: 500px;
+  justify-content: space-evenly; /*flex-start flex-end center space-between space-around*/
+}
+
+.item {
+  background: #81c368;
+  --margin: 20px;
+  width: 100px;
+  height: 100px;
+}

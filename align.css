@@ -9,6 +9,7 @@
   width: 800px;
   height: 500px;
   justify-content: space-evenly; /*flex-start flex-end center space-between space-around*/
+  align-items: center;
 }
 
 .item {
